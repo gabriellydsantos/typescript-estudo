@@ -7,7 +7,7 @@
 // console.log(`${age}`);
 
 const num1 = 20;
-const num2 = 20;
+// const num2 = 20;
 
 
 // const num1 = 2;
