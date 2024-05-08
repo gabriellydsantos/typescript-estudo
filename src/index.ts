@@ -41,7 +41,7 @@
 
 // const num = 2
 // //declarando a varivel com let pois não ira ser alterada
-// for (let i = 0; i <= 20; i++) {
+// for (let i = 0; i <= 10; i++) {
 // //   console.log(num * i)
 //   console.log(`${num} * ${i} = ${num * i}`);
 // }
