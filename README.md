@@ -5,7 +5,7 @@
 
 3 - Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
 
-4 - Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
+4 - Faça algoritmo que leia o nome e a idade de uma pesoa e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
 
 5 - Faça um algoritmo que receba um valor inteiro e imprima na tela a sua tabuada.
 
